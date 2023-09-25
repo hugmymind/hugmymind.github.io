@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hug my mind</title>
+    <title>Svicen</title>
     <link>https://hugmymind.github.io/</link>
-    <description>Recent content on Hug my mind</description>
+    <description>Recent content on Svicen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 25 Sep 2023 14:48:38 +0800</lastBuildDate><atom:link href="https://hugmymind.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -14,7 +14,14 @@
       
       <guid>https://hugmymind.github.io/posts/mypost/</guid>
       <description>This is some content.
-wonderful #include &amp;lt;iostream&amp;gt; int main() { return 0; } </description>
+wonderful #include &amp;lt;iostream&amp;gt; int main() { return 0; } 123 按时扶桑法萨 123 456 a123456132 123 1 1.1 1.2 2 2.1 hug
+my mind
+hug my mind， hug my mind
+$f_1 = $
+$f_1^2 = \sum_{i=1}^{n}{i * (i+1)}$
+abc
+false
+百度一下</description>
     </item>
     
   </channel>
