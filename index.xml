@@ -6,17 +6,7 @@
     <description>Recent content on Svicen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Sep 2023 17:09:34 +0800</lastBuildDate><atom:link href="https://hugmymind.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Test</title>
-      <link>https://hugmymind.github.io/posts/test/</link>
-      <pubDate>Mon, 25 Sep 2023 17:09:34 +0800</pubDate>
-      
-      <guid>https://hugmymind.github.io/posts/test/</guid>
-      <description>我的第三个博客，测试一下发布的具体命令
-hugo new blogs/xx.md </description>
-    </item>
-    
+    <lastBuildDate>Mon, 25 Sep 2023 15:55:15 +0800</lastBuildDate><atom:link href="https://hugmymind.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Deepfake</title>
       <link>https://hugmymind.github.io/posts/deepfake/</link>
