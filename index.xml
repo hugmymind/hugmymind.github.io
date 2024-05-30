@@ -6,7 +6,6 @@
     <description>Recent content on Svicen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-<<<<<<< HEAD
     <lastBuildDate>Fri, 27 Oct 2023 16:09:33 +0800</lastBuildDate><atom:link href="https://hugmymind.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>VAE</title>
@@ -34,9 +33,6 @@ Variational Autoencoders 就像标准自动编码器一样，变分自动编码�
 首先，输入被编码为潜在空间上的分布 the input is encoded as distribution over the latent space 第二，从该分布中采样潜在空间中的一个点 a point from the latent space is sampled from that distribution 第三，对采样点进行解码并计算重构误差 the sampled point is decoded and the reconstruction error can be computed 最后，重构误差通过网络反向传播 the reconstruction error is backpropagated through the network 在实践中，编码的分布被选择为正态分布（Gaussian mixture distribution），以便编码器可以被训练以返回描述这些高斯分布的均值和协方差矩阵。输入被编码为具有一定方差而不是单点的分布的原因是，它可以非常自然地表达潜在空间正则化：编码器返回的分布被强制接近标准正态分布。我们将在下一小节中看到，我们以这种方式确保潜在空间的局部和全局正则化（局部是因为方差控制，全局是因为均值控制）。</description>
     </item>
     
-=======
-    <lastBuildDate>Mon, 25 Sep 2023 15:55:15 +0800</lastBuildDate><atom:link href="https://hugmymind.github.io/index.xml" rel="self" type="application/rss+xml" />
->>>>>>> 9d7b51e549ecb4c79ebaa8a49bc15ac87a07eb5d
     <item>
       <title>Deepfake</title>
       <link>https://hugmymind.github.io/posts/deepfake/</link>
